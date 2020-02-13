@@ -1,0 +1,7 @@
+{
+    "tableName": "Inventory",
+    "partitionKeyName": "Name",
+    "partitionKeyType": "S",
+    "sortKeyName": "Type",
+    "sortKeyType": "S"
+}

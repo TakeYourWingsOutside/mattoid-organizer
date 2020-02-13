@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-mattoid-organizer-dev-160236-authRole",
+            "UnauthRoleArn": "arn:aws:iam::369117216291:role/amplify-mattoid-organizer-dev-160236-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::369117216291:role/amplify-mattoid-organizer-dev-160236-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "amplify-mattoid-organizer-dev-160236-deployment",
+            "UnauthRoleName": "amplify-mattoid-organizer-dev-160236-unauthRole",
+            "StackName": "amplify-mattoid-organizer-dev-160236",
+            "StackId": "arn:aws:cloudformation:us-east-2:369117216291:stack/amplify-mattoid-organizer-dev-160236/8b939d70-4eac-11ea-82a2-021a782363a8",
+            "AmplifyAppId": "d38g2mmqlad2ks"
+        }
+    }
+}

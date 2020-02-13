@@ -1,0 +1,8 @@
+{
+	"storage": {
+		"inventoryDB": {
+			"service": "DynamoDB",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
